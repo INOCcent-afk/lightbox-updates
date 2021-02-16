@@ -82,6 +82,10 @@ p {
 body {
     height: 2000px;
 }
+
+
+/* DONT COPPY THIS CODE BELOW */
+/* DONT COPPY THIS CODE BELOW */
 .images {
     display: flex;
     flex-wrap: wrap;
@@ -95,13 +99,15 @@ body {
     width: 320px;
     object-fit: cover;
 }
+/* DONT COPPY THIS CODE ABOVE */
+/* DONT COPPY THIS CODE ABOVE */
 
 
-/* !!! CSS FOR LIGHTBOX !!!!!!! */
-/* !!! CSS FOR LIGHTBOX !!!!!!! */
-/* !!! CSS FOR LIGHTBOX !!!!!!! */
-/* !!! CSS FOR LIGHTBOX !!!!!!! */
-/* !!! CSS FOR LIGHTBOX !!!!!!! */
+/* !!!! CSS FOR LIGHTBOX !!!!!!! */
+/* !!!! CSS FOR LIGHTBOX !!!!!!! */
+/* !!!! CSS FOR LIGHTBOX !!!!!!! */
+/* !!!! CSS FOR LIGHTBOX !!!!!!! */
+/* !!!! CSS FOR LIGHTBOX !!!!!!! */
 
 .image-modal {
     width: 100%;
@@ -290,11 +296,5 @@ body {
         max-width: 1030px;
         max-height: 686px;
         margin-top: 30px;
-    }
-}
-
-@media (min-width: 1300px) {
-    .image-modal-container {
-  
     }
 }

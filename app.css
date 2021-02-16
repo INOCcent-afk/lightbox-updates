@@ -256,7 +256,8 @@ body {
     }
 }
 
-@media (min-width: 992px) {
+@media (min-height:700px) and (min-width: 992px) {
+
     .image-modal-slider .image-modal-swiper-container {
         height: 620px;
         max-width: 826px;
@@ -276,7 +277,7 @@ body {
     }
 }
 
-@media (min-height:800px) and (min-width: 1200px) {
+@media  (min-height:800px) and (min-width: 1200px) {
     .image-modal-slider .image-modal-swiper-container {
         height: 770px;
         max-width: 1030px;
